@@ -1,0 +1,3 @@
+# Ignorar archivos .log en la raíz y cualquier carpeta
+*.log
+**/*.log
